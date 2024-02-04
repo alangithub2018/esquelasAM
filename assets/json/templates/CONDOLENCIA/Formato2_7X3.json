@@ -1,0 +1,115 @@
+{
+	"workspace": {
+		"propsGrls": {
+			"ancho": 135.4,
+			"alto": 258.9,
+			"background": "assets\/img\/CONDOLENCIA\/FONDO\/Formato2_Fondo_7X3.jpg",
+			"name": "Formato2",
+			"tipo": "CONDOLENCIA",
+			"id": 2,
+			"medP": "7X3"
+		},
+		"Condolencia": {
+			"properties": {
+				"txt": "Expresamos nuestro <br>m\u00e1s sentido p\u00e9same <br>y nos unimos al dolor <br>que embarga al <br><br><b>Dr. Juan Francisco Ram\u00edrez Arias <br>y familia<\/b> <br>por el sensible fallecimiento <br>de su Sra. Madre",
+				"tFn": "20px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "400",
+				"fnCol": "#000000",
+				"lineH": "17.8pt",
+				"lettSpc": "-0.1pt",
+				"ofsLft": 161,
+				"ofTop": 150,
+				"clW": "305.438px",
+				"clH": "212.75px"
+			}
+		},
+		"Fecha": {
+			"properties": {
+				"txt": "Le\u00f3n, Gto. 2 de Agosto de 2017.",
+				"tFn": "18px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "400",
+				"fnCol": "#000000",
+				"lineH": "17.8pt",
+				"lettSpc": "0pt",
+				"ofsLft": 165,
+				"ofTop": 889,
+				"clW": "292px",
+				"clH": "30px"
+			}
+		},
+		"Mensaje": {
+			"properties": {
+				"txt": "Elevamos nuestras plegarias <br>a Dios Nuestro Se\u00f1or para que les de la fortaleza, la sabidur\u00eda <br>y la paz para superar <br>esta dif\u00edcil prueba.",
+				"tFn": "20px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "400",
+				"fnCol": "#000000",
+				"lineH": "17.8pt",
+				"lettSpc": "-0.2pt",
+				"ofsLft": 172,
+				"ofTop": 657,
+				"clW": "283.25px",
+				"clH": "120.313px"
+			}
+		},
+		"Fallecido": {
+			"properties": {
+				"txt": "MAR\u00cdA VICTORIA ARIAS RAMOS",
+				"tFn": "54.6667px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "400",
+				"fnCol": "#000000",
+				"lineH": "47",
+				"lettSpc": "-1pt",
+				"ofsLft": 168,
+				"ofTop": 390,
+				"clW": "295.938px",
+				"clH": "247px"
+			}
+		},
+		"QuienPaga": {
+			"properties": {
+				"txt": "Afectuosamente Hospital Angeles Le\u00f3n",
+				"tFn": "20px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "bold",
+				"fnCol": "#000000",
+				"lineH": "16.8pt",
+				"lettSpc": "0pt",
+				"ofsLft": 203,
+				"ofTop": 799,
+				"clW": "213px",
+				"clH": "44px"
+			}
+		},
+		"Oracion": {
+			"properties": {
+				"txt": "<div>\"El Se\u00f1or me ha llamado a su presencia,<\/div><div>pero mi amor y mi esp\u00edritu permanecer\u00e1n <\/div><div>con ustedes para siempre\"<\/div>",
+				"tFn": "12.6667px",
+				"sFn": "italic",
+				"fnCol": "#000000",
+				"alGn": "right",
+				"fnBld": "bold",
+				"ofsLft": 238,
+				"ofTop": 35,
+				"clW": "249.26px",
+				"clH": "53.1px",
+				"lineH": "11.4pt",
+				"lettSpc": "0.1pt",
+				"tpFuente": "palatino"
+			}
+		}
+	}
+}

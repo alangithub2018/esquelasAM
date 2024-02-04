@@ -1,0 +1,98 @@
+{
+	"workspace": {
+		"propsGrls": {
+			"ancho": 135.38,
+			"alto": 258.89,
+			"background": "assets\/img\/CONDOLENCIA\/FONDO\/Formato5_Fondo_7X3.jpg",
+			"name": "Formato5",
+			"tipo": "CONDOLENCIA",
+			"id": 5,
+			"medP": "7X3"
+		},
+		"Condolencia": {
+			"properties": {
+				"txt": "Expresamos nuestro m\u00e1s sentido p\u00e9same <br>y nos unimos al dolor que embarga al <br><br><b>Dr. Juan Francisco Ram\u00edrez Arias <br>y familia<\/b> <br>por el sensible fallecimiento <br>de su Sra. Madre",
+				"tFn": "19.3333px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "400",
+				"fnCol": "#000000",
+				"lineH": "17.9pt",
+				"lettSpc": "0pt",
+				"ofsLft": 76,
+				"ofTop": 298,
+				"clW": "367.438px",
+				"clH": "168.75px"
+			}
+		},
+		"Fecha": {
+			"properties": {
+				"txt": "Le\u00f3n, Gto. 2 de Agosto de 2017.",
+				"tFn": "18px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "400",
+				"fnCol": "#000000",
+				"lineH": "23.1pt",
+				"lettSpc": "-0.1pt",
+				"ofsLft": 106,
+				"ofTop": 903,
+				"clW": "301px",
+				"clH": "32px"
+			}
+		},
+		"Mensaje": {
+			"properties": {
+				"txt": "Elevamos nuestras plegarias <br>a Dios Nuestro Se\u00f1or para que les de <br>la fortaleza, la sabidur\u00eda y la paz <br>para superar esta dif\u00edcil prueba.",
+				"tFn": "20px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "400",
+				"fnCol": "#000000",
+				"lineH": "17.9pt",
+				"lettSpc": "-0.1pt",
+				"ofsLft": 94,
+				"ofTop": 696,
+				"clW": "330.25px",
+				"clH": "104.313px"
+			}
+		},
+		"Fallecido": {
+			"properties": {
+				"txt": "MAR\u00cdA VICTORIA ARIAS RAMOS",
+				"tFn": "53.3333px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "400",
+				"fnCol": "#000000",
+				"lineH": "46.6pt",
+				"lettSpc": "-0.4pt",
+				"ofsLft": 64,
+				"ofTop": 491,
+				"clW": "390.938px",
+				"clH": "188px"
+			}
+		},
+		"QuienPaga": {
+			"properties": {
+				"txt": "Afectuosamente Hospital Angeles Le\u00f3n.",
+				"tFn": "20px",
+				"tpFuente": "palatino",
+				"sFn": "normal",
+				"alGn": "center",
+				"fnBld": "bold",
+				"fnCol": "#000000",
+				"lineH": "17.9pt",
+				"lettSpc": "0pt",
+				"ofsLft": 146,
+				"ofTop": 814,
+				"clW": "223px",
+				"clH": "57px"
+			}
+		}
+	}
+}
